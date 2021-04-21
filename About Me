@@ -1,0 +1,23 @@
+<style>                 
+    h1{
+        text-align: center;
+    }
+    body{
+        background-color: grey;
+    }
+</style> 
+
+<h1> About me </h1> 
+<hr style="color: black;">
+        
+        <h2> Full name: </h2>
+                        <p> Joseph Garone </p> 
+
+        <h2> Favourite color: </h2> 
+                        <p> Blue</p> 
+
+<h2> Sports I like: </h2> 
+<p> Basebal and hockey </p> 
+
+<h2> Small Descreption: </h2> 
+        <p> I grew up in St-Leonard and haven't move since birth. First sport my dad introduced to me was hockey. I played Hockey for a few years, then my dad realized that I only had a sport to play during the winter and not in the summer, so my dad intruduced me to baseball (because he's a mega baseball fan) and once again I was attached. I attended a french elementary school in Montreal-Nord but due to the amount if italians attending the school I made friends quickly and barly sopke french while at the school. 
